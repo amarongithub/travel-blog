@@ -15,8 +15,8 @@ export default [
     title: "Isle of Wight",
     location: "United Kingdom",
     googleMapsUrl: "https://maps.app.goo.gl/UmiwcF4BVxjrLcGu9",
-    startDate: "1 Feb, 2022",
-    endDate: "15 Feb, 2022",
+    startDate: "1 Feb, 2021",
+    endDate: "15 Feb, 2021",
     description:
       "The Isle of Wight is an island off the south coast of England. It’s known for its beaches and seafront promenades such as sandy Shanklin Beach and south-facing Ventnor Beach, which is dotted with vintage beach huts. Dinosaur remains and fossils can be seen in areas like Compton Bay and Yaverland Beach.",
     imageUrl: "https://source.unsplash.com/7uXn7nudorc",
@@ -26,8 +26,8 @@ export default [
     title: "Munich",
     location: "Germany",
     googleMapsUrl: "https://maps.app.goo.gl/UHexRFYFsJjK9iKaA",
-    startDate: "12 Jan, 2021",
-    endDate: "24 Jan, 2021",
+    startDate: "5 Aug, 2021",
+    endDate: "15 Aug, 2021",
     description:
       "Munich is Bavaria's capital in southern Germany, famous for Oktoberfest, art, and tech. It's a blend of traditional and modern, offering both fun and opportunity.",
     imageUrl: "https://source.unsplash.com/5MC-ltl4LZg",
